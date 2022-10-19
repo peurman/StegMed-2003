@@ -1,0 +1,1614 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+// Generated Help ID header file
+#define APSTUDIO_HIDDEN_SYMBOLS
+#include "resource.hm"
+#undef APSTUDIO_HIDDEN_SYMBOLS
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Spanish (Modern) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ESN)
+#ifdef _WIN32
+LANGUAGE LANG_SPANISH, SUBLANG_SPANISH_MODERN
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,0
+ PRODUCTVERSION 1,0,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "0c0a04b0"
+        BEGIN
+            VALUE "Comments", "contacto: esteban_manrupe@hotmail.com\0"
+            VALUE "CompanyName", "ESTEBAN MANRUPE\0"
+            VALUE "FileDescription", "Aplicaci�n MFC StegMed\0"
+            VALUE "FileVersion", "StegMed-1.0\0"
+            VALUE "InternalName", "StegMed\0"
+            VALUE "LegalCopyright", "Copyright (C) 2002\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "StegMed.EXE\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "StegMed - Esteganografía Médica\0"
+            VALUE "ProductVersion", "1.0\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0xc0a, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_DLG4A1, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_DLG3A, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_DLG2B, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_DLG2A, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_DLG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        VERTGUIDE, 198
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 3
+        RIGHTMARGIN, 132
+        BOTTOMMARGIN, 144
+    END
+
+    IDD_DLG3B, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_DLG4B, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_DLG5B, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_DLG5A, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_DLG7A, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_DLG6A1, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_DLG8A, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_INFO1, DIALOG
+    BEGIN
+        LEFTMARGIN, 3
+        RIGHTMARGIN, 192
+        BOTTOMMARGIN, 78
+    END
+
+    IDD_INFO2, DIALOG
+    BEGIN
+        LEFTMARGIN, 3
+        RIGHTMARGIN, 170
+        BOTTOMMARGIN, 73
+    END
+
+    IDD_INFO3, DIALOG
+    BEGIN
+        LEFTMARGIN, 3
+        RIGHTMARGIN, 202
+        BOTTOMMARGIN, 92
+    END
+
+    IDD_INFO4, DIALOG
+    BEGIN
+        LEFTMARGIN, 3
+        RIGHTMARGIN, 212
+        BOTTOMMARGIN, 85
+    END
+
+    IDD_INFO5, DIALOG
+    BEGIN
+        LEFTMARGIN, 3
+        RIGHTMARGIN, 181
+        BOTTOMMARGIN, 79
+    END
+
+    IDD_INFO6, DIALOG
+    BEGIN
+        LEFTMARGIN, 3
+        RIGHTMARGIN, 173
+        BOTTOMMARGIN, 79
+    END
+
+    IDD_INFO7, DIALOG
+    BEGIN
+        LEFTMARGIN, 3
+        RIGHTMARGIN, 173
+        BOTTOMMARGIN, 79
+    END
+
+    IDD_INFO8, DIALOG
+    BEGIN
+        LEFTMARGIN, 3
+        RIGHTMARGIN, 192
+        BOTTOMMARGIN, 83
+    END
+
+    IDD_INFO9, DIALOG
+    BEGIN
+        LEFTMARGIN, 3
+        RIGHTMARGIN, 192
+        BOTTOMMARGIN, 83
+    END
+
+    IDD_INFO10, DIALOG
+    BEGIN
+        LEFTMARGIN, 3
+        RIGHTMARGIN, 178
+        BOTTOMMARGIN, 80
+    END
+
+    IDD_INFO11, DIALOG
+    BEGIN
+        LEFTMARGIN, 3
+        RIGHTMARGIN, 186
+        BOTTOMMARGIN, 87
+    END
+
+    IDD_INFO12, DIALOG
+    BEGIN
+        LEFTMARGIN, 3
+        RIGHTMARGIN, 192
+        BOTTOMMARGIN, 91
+    END
+
+    IDD_INFO13, DIALOG
+    BEGIN
+        LEFTMARGIN, 3
+        RIGHTMARGIN, 181
+        BOTTOMMARGIN, 87
+    END
+
+    IDD_INFO14, DIALOG
+    BEGIN
+        LEFTMARGIN, 3
+        RIGHTMARGIN, 185
+        BOTTOMMARGIN, 87
+    END
+
+    IDD_DLG4A2, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_DLG4A3, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_DLG4A4, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_DLG4A5, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_DLG4A6, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 257
+        BOTTOMMARGIN, 157
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DLG4A1 DIALOG DISCARDABLE  0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION
+CAPTION "STEGMED - Paso 3 de 7"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,2,0,255,157
+    CTEXT           "Complete los campos con la informaci�n del Paciente:",
+                    IDC_TEXTO4A1,25,8,210,13
+    GROUPBOX        "",IDC_STATIC,8,16,243,99
+    LTEXT           "Nombre",IDC_STATIC,14,27,26,8
+    EDITTEXT        IDC_NOMBRE,41,24,76,12
+    LTEXT           "Apellido",IDC_STATIC,14,41,26,8
+    EDITTEXT        IDC_APELLIDO,41,39,76,12,ES_UPPERCASE
+    LTEXT           "Nacim",IDC_STATIC,19,56,20,8
+    COMBOBOX        IDC_NACDIA,41,54,22,58,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "/",IDC_STATIC,64,56,8,8
+    COMBOBOX        IDC_NACMES,68,54,22,58,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "/",IDC_STATIC,91,56,8,8
+    COMBOBOX        IDC_NACANIO,95,54,30,58,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Nro Doc",IDC_STATIC,13,71,26,8
+    EDITTEXT        IDC_NRODOC,41,69,84,12
+    LTEXT           "Edad",IDC_STATIC,23,86,17,8
+    EDITTEXT        IDC_EDAD,41,84,17,12,ES_RIGHT | ES_NUMBER
+    LTEXT           "Peso",IDC_STATIC,61,86,17,8
+    EDITTEXT        IDC_PESO,78,84,15,12,ES_NUMBER
+    LTEXT           "Altura",IDC_STATIC,96,86,18,8
+    EDITTEXT        IDC_ALTURA,115,84,21,12,ES_RIGHT
+    LTEXT           "Domicilio",IDC_STATIC,11,101,29,8
+    EDITTEXT        IDC_DIRECC,41,99,95,12
+    LTEXT           "Mutual",IDC_STATIC,133,26,22,8
+    COMBOBOX        IDC_MUTUAL,156,24,89,88,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "NroSocio",IDC_STATIC,126,41,29,8
+    EDITTEXT        IDC_NROSOCIO,156,39,81,12
+    LTEXT           "Obs",IDC_STATIC,142,56,13,8
+    EDITTEXT        IDC_OBS1,156,54,89,42,ES_MULTILINE | ES_AUTOVSCROLL | 
+                    ES_WANTRETURN | WS_VSCROLL
+    LTEXT           "TEL",IDC_STATIC,141,101,14,8
+    EDITTEXT        IDC_TELEFONO,156,99,81,12
+    GROUPBOX        "",IDC_STATIC,8,112,243,38
+    CONTROL         "ATRAS",IDC_ATRAS4A1,"Button",BS_OWNERDRAW | BS_CENTER | 
+                    BS_VCENTER | WS_GROUP | WS_TABSTOP,38,125,50,14
+    CONTROL         "SIGUIENTE",IDC_SEGUIR4A1,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_TABSTOP,172,125,50,14
+END
+
+IDD_DLG3A DIALOG DISCARDABLE  0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION
+CAPTION "STEGMED - Paso 2 de 7"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,2,0,255,157
+    CTEXT           "Seleccione el tipo de informaci�n que desea ocultar en la imagen:",
+                    IDC_TEXTO3A,41,17,177,21
+    GROUPBOX        "",IDC_STATIC,8,37,242,69
+    CONTROL         "Informaci�n del Paciente",IDC_PACIENTE,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,33,49,93,10
+    CONTROL         "Radiograf�a",IDC_RADIOGRAF,"Button",BS_AUTORADIOBUTTON,
+                    33,69,52,10
+    CONTROL         "TAC",IDC_TAC,"Button",BS_AUTORADIOBUTTON,33,89,28,10
+    CONTROL         "Ecograf�a",IDC_ECOGRAF,"Button",BS_AUTORADIOBUTTON,140,
+                    49,46,10
+    CONTROL         "Resonancia Magn�tica",IDC_RESOMAG,"Button",
+                    BS_AUTORADIOBUTTON,140,69,87,10
+    CONTROL         "Otro",IDC_OTROS,"Button",BS_AUTORADIOBUTTON,140,89,38,
+                    10
+    GROUPBOX        "",IDC_STATIC,8,108,243,43
+    CONTROL         "ATRAS",IDC_ATRAS3A,"Button",BS_OWNERDRAW | BS_CENTER | 
+                    BS_VCENTER | WS_GROUP | WS_TABSTOP,38,125,50,14
+    CONTROL         "SIGUIENTE",IDC_SEGUIR3A,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_TABSTOP,172,125,50,14
+END
+
+IDD_DLG2B DIALOGEX 0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION
+CAPTION "STEGMED - Paso 1 de 4"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    GROUPBOX        "",IDC_STATIC,2,0,255,157
+    CTEXT           "Seleccione el archivo esteganogr�fico del cual se extraer� la informaci�n:",
+                    IDC_TEXTO2B,50,17,160,20
+    GROUPBOX        "",IDC_STATIC,8,47,243,52
+    EDITTEXT        IDC_EDITPATH2,31,69,138,13,ES_AUTOHSCROLL
+    CONTROL         "EXAMINAR",IDC_EXAMINAR_B,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_TABSTOP,179,68,50,14,
+                    WS_EX_ACCEPTFILES
+    GROUPBOX        "",IDC_STATIC,8,108,243,43
+    CONTROL         "ATRAS",IDC_ATRAS2B,"Button",BS_OWNERDRAW | BS_CENTER | 
+                    BS_VCENTER | WS_TABSTOP,38,125,50,14
+    CONTROL         "SIGUIENTE",IDC_SEGUIR2B,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_DISABLED | WS_TABSTOP,172,
+                    125,50,14
+END
+
+IDD_DLG2A DIALOGEX 0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION
+CAPTION "STEGMED - Paso 1 de 7"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,2,0,255,157
+    CTEXT           "Seleccione el archivo gr�fico en el cual va a ocultarse la informaci�n:",
+                    IDC_TEXTO2A,41,17,177,21
+    GROUPBOX        "",IDC_STATIC,8,47,243,52
+    EDITTEXT        IDC_EDITPATH1,31,69,138,13,ES_AUTOHSCROLL
+    CONTROL         "EXAMINAR",IDC_EXAMINAR_A,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_TABSTOP,179,68,50,14,
+                    WS_EX_ACCEPTFILES
+    CONTROL         "ATRAS",IDC_ATRAS2A,"Button",BS_OWNERDRAW | BS_CENTER | 
+                    BS_VCENTER | WS_TABSTOP,38,125,50,14
+    GROUPBOX        "",IDC_STATIC,8,108,243,43
+    CONTROL         "SIGUIENTE",IDC_SEGUIR2A,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_DISABLED | WS_TABSTOP,172,
+                    125,50,14
+END
+
+IDD_DLG1 DIALOGEX 0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "StegMed"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif"
+BEGIN
+    CONTROL         219,IDC_STATIC,"Static",SS_BITMAP,35,9,190,76
+    GROUPBOX        "",IDC_STATIC,2,0,255,157
+    GROUPBOX        "",IDC_STATIC,8,86,243,64
+    CONTROL         "OCULTAR",IDC_EMBED,"Button",BS_OWNERDRAW | BS_CENTER | 
+                    BS_VCENTER | WS_TABSTOP,23,125,83,14
+    CONTROL         "RESCATAR",IDC_EXTRACT,"Button",BS_OWNERDRAW | 
+                    WS_TABSTOP,154,125,83,14
+    CTEXT           "Seleccione el proceso que desea realizar:",IDC_TEXTO1,
+                    29,100,201,14
+END
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 135, 147
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Acerca de StegMed"
+FONT 9, "PrimaSans BT"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,5,2,125,140
+    CONTROL         216,IDB_ABOUT,"Static",SS_BITMAP,6,7,124,110
+    CONTROL         "ACEPTAR",IDOK,"Button",BS_OWNERDRAW | WS_GROUP | 
+                    WS_TABSTOP,47,122,32,14
+    GROUPBOX        "",IDC_STATIC,5,112,125,30
+END
+
+IDD_DLG3B DIALOG DISCARDABLE  0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION
+CAPTION "STEGMED - Paso 2 de 4"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,2,0,255,157
+    CTEXT           "En este paso deber� ingresar la clave que se utiliz� al ocultar la informaci�n en la imagen",
+                    IDC_TEXTO3B,39,13,181,21
+    GROUPBOX        "",IDC_STATIC,8,32,243,75
+    CTEXT           "Ingrese la clave",IDC_STATIC,105,43,49,8
+    EDITTEXT        IDC_EDITPASSB1,88,54,83,14,ES_PASSWORD | ES_AUTOHSCROLL
+    CTEXT           "Confirme la clave",IDC_STATIC,103,73,53,8
+    EDITTEXT        IDC_EDITPASSB2,88,84,83,14,ES_PASSWORD | ES_AUTOHSCROLL
+    GROUPBOX        "",IDC_STATIC,8,108,243,43
+    CONTROL         "ATRAS",IDC_ATRAS3B,"Button",BS_OWNERDRAW | BS_CENTER | 
+                    BS_VCENTER | WS_TABSTOP,38,125,50,14
+    CONTROL         "SIGUIENTE",IDC_SEGUIR3B,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_DISABLED | WS_TABSTOP,172,
+                    125,50,14
+END
+
+IDD_DLG4B DIALOG DISCARDABLE  0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION
+CAPTION "STEGMED - Paso 3 de 4"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,2,0,255,157
+    GROUPBOX        "",IDC_STATIC,8,5,243,111
+    CONTROL         "COMENZAR",IDC_COMENZAR2,"Button",BS_OWNERDRAW | 
+                    WS_TABSTOP,98,14,64,14
+    CTEXT           "Leyendo archivo esteganogr�fico...",IDC_INFOEXTR1,44,33,
+                    171,11,NOT WS_VISIBLE
+    CTEXT           "Extrayendo informaci�n encriptada de la imagen...",
+                    IDC_INFOEXTR2,29,45,201,14,NOT WS_VISIBLE
+    CTEXT           "Decriptando informaci�n...",IDC_INFOEXTR3,47,57,166,13,
+                    NOT WS_VISIBLE
+    CTEXT           "Generando archivo de texto...",IDC_INFOEXTR4,42,69,176,
+                    13,NOT WS_VISIBLE
+    CTEXT           "TERMINADO",IDC_INFOEXTR5,80,86,100,13,NOT WS_VISIBLE
+    CTEXT           "Proceso Interrumpido. Para salir vaya al men� archivo y elija la opci�n salir. Para reiniciar el proceso presione &Cancelar.",
+                    IDC_INFOEXTR6,16,81,227,22,NOT WS_VISIBLE
+    CTEXT           "Al presionar &Siguiente podr� ver el contenido del archivo.",
+                    IDC_INFOEXTR7,21,103,218,14,NOT WS_VISIBLE
+    GROUPBOX        "",IDC_STATIC,8,111,243,40
+    CONTROL         "CANCELAR",IDC_CANCELARB,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_TABSTOP,38,125,50,14
+    CONTROL         "SIGUIENTE",IDC_SEGUIR4B,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_DISABLED | WS_TABSTOP,172,
+                    125,50,14
+END
+
+IDD_DLG5B DIALOG DISCARDABLE  0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION
+CAPTION "STEGMED - Paso 4 de 4"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,2,0,255,157
+    CTEXT           "La informaci�n extra�da del archivo esteganogr�fico",
+                    IDC_TEXTO5B1,30,9,200,11
+    RTEXT           "se ha guardado como:  ",IDC_TEXTO5B2,16,20,91,12
+    EDITTEXT        IDC_PATHNAME5B,107,19,127,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    LTEXT           "Contenido:",IDC_TEXTO5B3,10,34,97,10
+    EDITTEXT        IDC_INFORESCATADA,12,46,237,54,ES_MULTILINE | 
+                    ES_AUTOVSCROLL | ES_READONLY | WS_VSCROLL
+    GROUPBOX        "",IDC_STATIC,9,39,243,64
+    GROUPBOX        "",IDC_STATIC,8,112,243,38
+    CTEXT           "�Gracias por utilizar StegMed!",IDC_TEXTO5B4,62,106,136,
+                    12
+    CONTROL         "TERMINAR",IDC_TERMINARB,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_TABSTOP,105,125,50,14
+END
+
+IDD_DLG5A DIALOG DISCARDABLE  0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION
+CAPTION "STEGMED - Paso 4 de 7"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,2,0,255,157
+    CTEXT           "Verifique la informaci�n a ocultar:",IDC_TEXTO5A1,51,10,
+                    157,13
+    GROUPBOX        "",IDC_STATIC,8,18,243,79
+    CTEXT           "Si desea modificar alg�n dato, presione &Corregir.",
+                    IDC_TEXTO5A2,37,101,186,12
+    GROUPBOX        "",IDC_STATIC,8,108,243,43
+    CONTROL         "CORREGIR",IDC_CORREGIR5A,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_GROUP | WS_TABSTOP,38,125,50,
+                    14
+    CONTROL         "SIGUIENTE",IDC_SEGUIR5A,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_TABSTOP,172,125,50,14
+    EDITTEXT        IDC_INFOOCULTAR,11,25,237,69,ES_MULTILINE | 
+                    ES_AUTOVSCROLL | ES_READONLY | ES_WANTRETURN | 
+                    WS_VSCROLL
+END
+
+IDD_DLG7A DIALOGEX 0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION
+CAPTION "STEGMED - Paso 6 de 7"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,2,0,255,157
+    CONTROL         "COMENZAR",IDC_COMENZAR1,"Button",BS_OWNERDRAW | 
+                    WS_TABSTOP,95,14,70,14
+    CTEXT           "Leyendo archivos...",IDC_INFOEMB1,82,33,96,12,NOT 
+                    WS_VISIBLE,0,HIDC_INFOEMB1
+    CTEXT           "Encriptando informaci�n...",IDC_INFOEMB2,60,45,140,12,
+                    NOT WS_VISIBLE
+    CTEXT           "Ocultando informaci�n encriptada en la imagen...",
+                    IDC_INFOEMB3,30,57,201,12,NOT WS_VISIBLE
+    CTEXT           "Generando archivo esteganogr�fico...",IDC_INFOEMB4,41,
+                    69,179,12,NOT WS_VISIBLE
+    CTEXT           "TERMINADO",IDC_INFOEMB6,97,86,67,12,NOT WS_VISIBLE
+    CTEXT           "Proceso Interrumpido. Para salir vaya al men� archivo y elija la opci�n salir. Para reiniciar el proceso presione &Cancelar.",
+                    IDC_INFOEMB5,15,81,230,22,NOT WS_VISIBLE
+    CTEXT           "Presione &Siguiente para continuar y poder ver al archivo generado.",
+                    IDC_INFOEMB7,23,103,213,8,NOT WS_VISIBLE
+    CONTROL         "CANCELAR",IDC_CANCELARA,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_TABSTOP,38,125,50,14
+    CONTROL         "SIGUIENTE",IDC_SEGUIR7A,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_DISABLED | WS_TABSTOP,172,
+                    125,50,14
+    GROUPBOX        "",IDC_STATIC,8,111,243,40
+    GROUPBOX        "",IDC_STATIC,8,5,243,111
+END
+
+IDD_DLG6A1 DIALOG DISCARDABLE  0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION
+CAPTION "STEGMED - Paso 5 de 7"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif"
+BEGIN
+    CONTROL         "SIGUIENTE",IDC_SEGUIR6A,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_DISABLED | WS_TABSTOP,172,
+                    125,50,14
+    CONTROL         "ATRAS",IDC_ATRAS6A,"Button",BS_OWNERDRAW | BS_CENTER | 
+                    BS_VCENTER | WS_TABSTOP,38,125,50,14
+    CTEXT           "Ingrese la clave",IDC_STATIC,105,43,49,8
+    EDITTEXT        IDC_EDITPASSA1,88,54,83,14,ES_PASSWORD | ES_AUTOHSCROLL
+    GROUPBOX        "",IDC_STATIC,2,0,255,157
+    CTEXT           "Confirme la clave",IDC_STATIC,103,73,53,8
+    EDITTEXT        IDC_EDITPASSA2,88,84,83,14,ES_PASSWORD | ES_AUTOHSCROLL
+    GROUPBOX        "",IDC_STATIC,8,108,243,43
+    GROUPBOX        "",IDC_STATIC,8,32,243,75
+    CTEXT           "En este paso deber� generar la clave con la que va a ocultar la informaci�n en la imagen",
+                    IDC_TEXTO6A,39,13,181,21
+END
+
+IDD_DLG8A DIALOG DISCARDABLE  0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION
+CAPTION "STEGMED - Paso 7 de 7"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif"
+BEGIN
+    CONTROL         "TERMINAR",IDC_TERMINARA,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_TABSTOP,172,125,50,14
+    GROUPBOX        "",IDC_STATIC,2,0,255,157
+    GROUPBOX        "",IDC_STATIC,8,7,243,105
+    CTEXT           "El archivo esteganogr�fico se ha guardado como:",
+                    IDC_TEXTO8A1,33,16,193,11
+    CONTROL         "MOSTRAR",IDC_MOSTRAR,"Button",BS_OWNERDRAW | BS_CENTER | 
+                    BS_VCENTER | WS_TABSTOP,38,125,50,14
+    CTEXT           "Si desea ver el archivo generado presione &Mostrar, StegMed se cerrar� autom�ticamente.",
+                    IDC_IDC_TEXTO8A2,19,50,221,20
+    EDITTEXT        IDC_PATHNAME8A,52,28,155,12,ES_CENTER | ES_AUTOHSCROLL | 
+                    ES_READONLY
+    CTEXT           "Si no desea abrirlo, presione &Terminar y as� finalizar� la operaci�n.",
+                    IDC_TEXTO8A3,15,75,231,19
+    CTEXT           "�Gracias por utilizar StegMed!",IDC_TEXTO8A4,59,97,143,
+                    10
+    GROUPBOX        "",IDC_STATIC,8,111,243,40
+END
+
+IDD_INFO1 DIALOG DISCARDABLE  0, 0, 195, 81
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Error"
+FONT 10, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,3,0,189,78
+    CTEXT           "El archivo elegido no existe.",IDC_TEXTOI11,11,20,173,
+                    11,SS_NOPREFIX
+    CTEXT           "Por favor, seleccione un archivo utilizando el bot�n &Examinar...",
+                    IDC_TEXTOI12,34,30,130,19
+    CONTROL         "ACEPTAR",IDOK,"Button",BS_OWNERDRAW | WS_GROUP | 
+                    WS_TABSTOP,73,52,48,14
+    GROUPBOX        "",IDC_STATIC,9,6,177,66
+    CONTROL         165,IDC_STATIC,"Static",SS_BITMAP,16,16,16,16
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,4,5,5,72
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,186,5,5,72
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,72,177,5
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,5,177,5
+END
+
+IDD_INFO2 DIALOG DISCARDABLE  0, 0, 173, 76
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Error"
+FONT 10, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,4,5,5,67
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,5,155,5
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,164,5,5,67
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,67,155,5
+    GROUPBOX        "",IDC_STATIC,3,0,167,73
+    CTEXT           "Las claves no concuerdan.",IDC_TEXTOI21,11,21,150,11,
+                    SS_NOPREFIX
+    CTEXT           "Por favor, ingr�selas nuevamente.",IDC_TEXTOI22,35,33,
+                    126,12
+    CONTROL         "ACEPTAR",IDOK,"Button",BS_OWNERDRAW | WS_GROUP | 
+                    WS_TABSTOP,64,47,45,14
+    GROUPBOX        "",IDC_STATIC,9,6,155,61
+    CONTROL         165,IDC_STATIC,"Static",SS_BITMAP,16,17,16,16
+END
+
+IDD_INFO3 DIALOG DISCARDABLE  0, 0, 205, 95
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Informaci�n"
+FONT 10, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,4,5,5,86
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,5,187,5
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,196,5,5,86
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,86,187,5
+    GROUPBOX        "",IDC_STATIC,3,0,199,92
+    CTEXT           "Se ha cancelado el proceso. ",IDC_TEXTOI31,13,20,178,11,
+                    SS_NOPREFIX
+    CTEXT           "Si desea renudarlo seleccione nuevamente el archivo a utilizar.",
+                    IDC_TEXTOI32,34,30,155,17
+    CONTROL         "ACEPTAR",IDOK,"Button",BS_OWNERDRAW | WS_GROUP | 
+                    WS_TABSTOP,78,67,49,14
+    CTEXT           "Si desea salir vaya al men� Arc&hivo y elija la opci�n Salir.",
+                    IDC_TEXTOI33,17,47,169,18
+    GROUPBOX        "",IDC_STATIC,9,6,187,80
+    CONTROL         160,IDC_STATIC,"Static",SS_BITMAP,16,17,16,16
+END
+
+IDD_INFO4 DIALOG DISCARDABLE  0, 0, 215, 88
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Importante"
+FONT 10, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,4,5,5,79
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,5,196,5
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,205,5,5,79
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,79,196,5
+    GROUPBOX        "",IDC_STATIC,3,0,208,85
+    CTEXT           "En el siguiente paso deber� generar la clave.",
+                    IDC_TEXTOI41,27,20,174,11,SS_NOPREFIX
+    CTEXT           "Recu�rdela. Necesitar� de ella para luego poder recuperar la informaci�n oculta. ",
+                    IDC_TEXTOI42,30,29,155,16
+    CONTROL         "ACEPTAR",IDOK,"Button",BS_OWNERDRAW | WS_GROUP | 
+                    WS_TABSTOP,82,60,51,14
+    CTEXT           "No revele este dato.",IDC_TEXTOI43,29,46,156,10
+    GROUPBOX        "",IDC_STATIC,9,6,196,73
+    CONTROL         163,IDC_STATIC,"Static",SS_BITMAP,15,16,16,16
+END
+
+IDD_INFO5 DIALOG DISCARDABLE  0, 0, 184, 82
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Error 0"
+FONT 10, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,4,5,5,71
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,5,165,5
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,174,5,5,71
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,71,165,5
+    GROUPBOX        "",IDC_STATIC,3,0,177,77
+    CTEXT           "No se encontr� el archivo accion.exe",IDC_TEXTOI51,34,
+                    20,136,11,SS_NOPREFIX
+    CTEXT           "Verifique que se encuentre en el mismo directorio que StegMed.exe",
+                    IDC_TEXTOI52,32,30,130,19
+    CONTROL         "ACEPTAR",IDOK,"Button",BS_OWNERDRAW | WS_GROUP | 
+                    WS_TABSTOP,62,52,46,14
+    GROUPBOX        "",IDC_STATIC,9,6,165,65
+    CONTROL         165,IDC_STATIC,"Static",SS_BITMAP,16,17,16,16
+END
+
+IDD_INFO6 DIALOG DISCARDABLE  0, 0, 176, 82
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Error 1"
+FONT 10, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,4,5,5,71
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,5,157,5
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,166,5,5,71
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,71,157,5
+    GROUPBOX        "",IDC_STATIC,3,0,169,78
+    CTEXT           "Error al leer el archivo BMP.",IDC_TEXTOI61,34,20,128,
+                    11,SS_NOPREFIX
+    CTEXT           "El formato del archivo no es manejado por Stegmed.",
+                    IDC_TEXTOI62,33,30,129,19
+    CONTROL         "ACEPTAR",IDOK,"Button",BS_OWNERDRAW | WS_GROUP | 
+                    WS_TABSTOP,65,52,46,14
+    GROUPBOX        "",IDC_STATIC,9,6,157,65
+    CONTROL         165,IDC_STATIC,"Static",SS_BITMAP,16,17,16,16
+END
+
+IDD_INFO7 DIALOG DISCARDABLE  0, 0, 176, 82
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Error 2"
+FONT 10, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,4,5,5,71
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,5,157,5
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,166,5,5,71
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,71,157,5
+    GROUPBOX        "",IDC_STATIC,3,0,169,78
+    CTEXT           "Error de lectura.",IDC_TEXTOI71,34,20,128,11,
+                    SS_NOPREFIX
+    CTEXT           "Se ha producido un error al leer el archivo BMP.",
+                    IDC_TEXTOI72,33,30,129,19
+    CONTROL         "ACEPTAR",IDOK,"Button",BS_OWNERDRAW | WS_GROUP | 
+                    WS_TABSTOP,65,52,46,14
+    GROUPBOX        "",IDC_STATIC,9,6,157,65
+    CONTROL         165,IDC_STATIC,"Static",SS_BITMAP,16,17,16,16
+END
+
+IDD_INFO8 DIALOG DISCARDABLE  0, 0, 195, 86
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Error 3"
+FONT 10, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,4,5,5,76
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,5,176,5
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,185,5,5,76
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,76,176,5
+    GROUPBOX        "",IDC_STATIC,3,0,188,82
+    CTEXT           "Error al abrir m�dulo de Libmcrypt.",IDC_TEXTOI81,34,20,
+                    125,11,SS_NOPREFIX
+    CTEXT           "Verifique que en el directorio del ejecutable se encuentren el archivo cygmcrypt-4.dll y la carpeta ""modulos"".",
+                    IDC_TEXTOI82,33,30,147,24
+    CONTROL         "ACEPTAR",IDOK,"Button",BS_OWNERDRAW | WS_GROUP | 
+                    WS_TABSTOP,74,57,46,14
+    GROUPBOX        "",IDC_STATIC,9,6,176,70
+    CONTROL         165,IDC_STATIC,"Static",SS_BITMAP,16,17,16,16
+END
+
+IDD_INFO9 DIALOG DISCARDABLE  0, 0, 195, 86
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Error 4"
+FONT 10, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,4,5,5,76
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,5,176,5
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,185,5,5,76
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,76,176,5
+    GROUPBOX        "",IDC_STATIC,3,0,188,82
+    CTEXT           "Error al abrir m�dulo de Libmhash.",IDC_TEXTOI91,34,20,
+                    125,11,SS_NOPREFIX
+    CTEXT           "Verifique que en el directorio del ejecutable se encuentre el archivo cygmhash-2.dll",
+                    IDC_TEXTOI92,33,30,142,24
+    CONTROL         "ACEPTAR",IDOK,"Button",BS_OWNERDRAW | WS_GROUP | 
+                    WS_TABSTOP,74,57,46,14
+    GROUPBOX        "",IDC_STATIC,9,6,176,70
+    CONTROL         165,IDC_STATIC,"Static",SS_BITMAP,16,17,16,16
+END
+
+IDD_INFO10 DIALOG DISCARDABLE  0, 0, 181, 83
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Error 5"
+FONT 10, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,4,5,5,71
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,5,162,5
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,171,5,5,71
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,71,162,5
+    GROUPBOX        "",IDC_STATIC,3,0,174,78
+    CTEXT           "Por favor, seleccione otro archivo.",IDC_TEXTOI101,34,
+                    38,130,11,SS_NOPREFIX
+    CTEXT           "El archivo BMP es demasiado peque�o para poder ocultar los datos.",
+                    IDC_TEXTOI102,32,19,134,19
+    CONTROL         "ACEPTAR",IDOK,"Button",BS_OWNERDRAW | WS_GROUP | 
+                    WS_TABSTOP,67,52,46,14
+    GROUPBOX        "",IDC_STATIC,9,6,162,65
+    CONTROL         165,IDC_STATIC,"Static",SS_BITMAP,16,17,16,16
+END
+
+IDD_INFO11 DIALOG DISCARDABLE  0, 0, 189, 90
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Error 6"
+FONT 10, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,4,5,5,79
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,5,170,5
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,179,5,5,79
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,79,170,5
+    GROUPBOX        "",IDC_STATIC,3,0,182,86
+    CTEXT           "No pudo crearse el archivo esteganogr�fico. Por favor, repita el proceso.",
+                    IDC_TEXTOI111,34,30,138,25,SS_NOPREFIX
+    CTEXT           "Error de escritura.",IDC_TEXTOI112,32,19,126,9
+    CONTROL         "ACEPTAR",IDOK,"Button",BS_OWNERDRAW | WS_GROUP | 
+                    WS_TABSTOP,71,60,46,14
+    GROUPBOX        "",IDC_STATIC,9,6,170,73
+    CONTROL         165,IDC_STATIC,"Static",SS_BITMAP,16,17,16,16
+END
+
+IDD_INFO12 DIALOG DISCARDABLE  0, 0, 195, 94
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Error 7"
+FONT 10, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,4,5,5,84
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,5,176,5
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,185,5,5,84
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,84,176,5
+    GROUPBOX        "",IDC_STATIC,3,0,188,90
+    CTEXT           "El archivo BMP es demasiado peque�o para contener los datos.",
+                    IDC_TEXTOI121,34,20,146,18,SS_NOPREFIX
+    CTEXT           "Verifique que la clave ingresada sea correcta. El archivo pudo haber sido corrompido.",
+                    IDC_TEXTOI122,32,38,148,24
+    CONTROL         "ACEPTAR",IDOK,"Button",BS_OWNERDRAW | WS_GROUP | 
+                    WS_TABSTOP,74,65,46,14
+    GROUPBOX        "",IDC_STATIC,9,6,176,78
+    CONTROL         165,IDC_STATIC,"Static",SS_BITMAP,16,17,16,16
+END
+
+IDD_INFO13 DIALOG DISCARDABLE  0, 0, 184, 90
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Error 8"
+FONT 10, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,4,5,5,79
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,5,166,5
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,175,5,5,79
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,79,166,5
+    GROUPBOX        "",IDC_STATIC,3,0,178,86
+    CTEXT           "Verifique que la clave ingresada sea correcta. El archivo pudo haber sido corrompido.",
+                    IDC_TEXTOI131,36,30,134,26,SS_NOPREFIX
+    CTEXT           "Error en el checksum.",IDC_TEXTOI132,35,19,115,9
+    CONTROL         "ACEPTAR",IDOK,"Button",BS_OWNERDRAW | WS_GROUP | 
+                    WS_TABSTOP,69,60,46,14
+    GROUPBOX        "",IDC_STATIC,9,6,166,73
+    CONTROL         165,IDC_STATIC,"Static",SS_BITMAP,16,17,16,16
+END
+
+IDD_INFO14 DIALOG DISCARDABLE  0, 0, 188, 90
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Error 9"
+FONT 10, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,4,5,5,79
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,5,170,5
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,179,5,5,79
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,9,79,170,5
+    GROUPBOX        "",IDC_STATIC,3,0,182,86
+    CTEXT           "No pudo crearse el archivo de texto. Por favor, repita el proceso.",
+                    IDC_TEXTOI141,36,30,134,25,SS_NOPREFIX
+    CTEXT           "Error de escritura.",IDC_TEXTOI142,32,19,126,9
+    CONTROL         "ACEPTAR",IDOK,"Button",BS_OWNERDRAW | WS_GROUP | 
+                    WS_TABSTOP,71,60,46,14
+    GROUPBOX        "",IDC_STATIC,9,6,170,73
+    CONTROL         165,IDC_STATIC,"Static",SS_BITMAP,16,17,16,16
+END
+
+IDD_DLG4A2 DIALOG DISCARDABLE  0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION
+CAPTION "STEGMED - Paso 3 de 7"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,2,0,255,157
+    CTEXT           "Complete los campos con la informaci�n de la Radiograf�a:",
+                    IDC_TEXTO4A2,25,8,210,13
+    GROUPBOX        "",IDC_STATIC,8,16,243,99
+    LTEXT           "Paciente",IDC_STATIC,17,27,28,8
+    EDITTEXT        IDC_NOMBRE,46,24,92,12
+    LTEXT           "Fecha",IDC_STATIC,187,27,20,8
+    EDITTEXT        IDC_FECHA,208,25,39,12
+    LTEXT           "Edad",IDC_STATIC,27,40,18,8
+    EDITTEXT        IDC_EDAD,46,38,16,12,ES_RIGHT | ES_NUMBER
+    LTEXT           "Regi�n",IDC_STATIC,113,41,23,8
+    EDITTEXT        IDC_REGION,137,39,110,12
+    LTEXT           "Informe",IDC_STATIC,22,55,23,8
+    EDITTEXT        IDC_INFORME,46,54,202,41,ES_MULTILINE | ES_AUTOVSCROLL | 
+                    ES_WANTRETURN | WS_VSCROLL
+    LTEXT           "Conclusi�n",IDC_STATIC,11,100,34,8
+    EDITTEXT        IDC_CONCLUSION,46,98,104,12,ES_AUTOHSCROLL
+    LTEXT           "Doctor",IDC_STATIC,154,101,21,8
+    EDITTEXT        IDC_DOCTOR,176,99,72,12,ES_AUTOHSCROLL
+    GROUPBOX        "",IDC_STATIC,8,112,243,38
+    CONTROL         "ATRAS",IDC_ATRAS4A2,"Button",BS_OWNERDRAW | BS_CENTER | 
+                    BS_VCENTER | WS_GROUP | WS_TABSTOP,38,125,50,14
+    CONTROL         "SIGUIENTE",IDC_SEGUIR4A2,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_TABSTOP,172,125,50,14
+END
+
+IDD_DLG4A3 DIALOG DISCARDABLE  0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION
+CAPTION "STEGMED - Paso 3 de 7"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif"
+BEGIN
+    CTEXT           "Complete los campos con la informaci�n de la Tomograf�a Computada:",
+                    IDC_TEXTO4A3,2,8,255,13
+    GROUPBOX        "",-1,8,16,243,99
+    LTEXT           "Paciente",-1,17,27,28,8
+    EDITTEXT        IDC_NOMBRE,46,24,92,12
+    LTEXT           "Fecha",-1,187,26,20,8
+    EDITTEXT        IDC_FECHA,208,24,39,12
+    LTEXT           "Edad",-1,27,40,18,8
+    EDITTEXT        IDC_EDAD,46,38,16,12,ES_RIGHT | ES_NUMBER
+    LTEXT           "Regi�n",-1,113,41,23,8
+    EDITTEXT        IDC_REGION,137,39,110,12
+    LTEXT           "Descrip.",-1,19,56,26,8
+    EDITTEXT        IDC_DESCRIP,46,54,202,19,ES_MULTILINE | ES_AUTOVSCROLL | 
+                    ES_WANTRETURN | WS_VSCROLL
+    LTEXT           "Informe",-1,22,77,23,8
+    EDITTEXT        IDC_INFORME,46,76,202,19,ES_MULTILINE | ES_AUTOVSCROLL | 
+                    ES_WANTRETURN | WS_VSCROLL
+    LTEXT           "Conclusi�n",-1,11,100,34,8
+    EDITTEXT        IDC_CONCLUSION,46,98,104,12,ES_AUTOHSCROLL
+    LTEXT           "Doctor",-1,154,101,21,8
+    EDITTEXT        IDC_DOCTOR,176,99,72,12,ES_AUTOHSCROLL
+    GROUPBOX        "",-1,8,112,243,38
+    CONTROL         "ATRAS",IDC_ATRAS4A3,"Button",BS_OWNERDRAW | BS_CENTER | 
+                    BS_VCENTER | WS_GROUP | WS_TABSTOP,38,125,50,14
+    CONTROL         "SIGUIENTE",IDC_SEGUIR4A3,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_TABSTOP,172,125,50,14
+    GROUPBOX        "",-1,2,0,255,157
+END
+
+IDD_DLG4A4 DIALOG DISCARDABLE  0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION
+CAPTION "STEGMED - Paso 3 de 7"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,2,0,255,157
+    CTEXT           "Complete los campos con la informaci�n de la Ecograf�a:",
+                    IDC_TEXTO4A4,25,8,210,13
+    GROUPBOX        "",IDC_STATIC,8,16,243,99
+    LTEXT           "Paciente",IDC_STATIC,17,27,28,8
+    EDITTEXT        IDC_NOMBRE,46,24,90,12
+    LTEXT           "Fecha",IDC_STATIC,189,26,20,8
+    EDITTEXT        IDC_FECHA,210,24,37,12
+    LTEXT           "Estudio",IDC_STATIC,21,40,24,8
+    EDITTEXT        IDC_ESTUDIO,46,38,67,12,ES_AUTOHSCROLL
+    LTEXT           "Regi�n",IDC_STATIC,128,41,23,8
+    EDITTEXT        IDC_REGION,152,39,95,12
+    LTEXT           "Informe",IDC_STATIC,22,55,23,8
+    EDITTEXT        IDC_INFORME,46,54,202,41,ES_MULTILINE | ES_AUTOVSCROLL | 
+                    ES_WANTRETURN | WS_VSCROLL
+    LTEXT           "Conclusi�n",IDC_STATIC,11,99,34,8
+    EDITTEXT        IDC_CONCLUSION,46,98,104,12,ES_AUTOHSCROLL
+    LTEXT           "Doctor",IDC_STATIC,154,101,21,8
+    EDITTEXT        IDC_DOCTOR,176,99,72,12,ES_AUTOHSCROLL
+    GROUPBOX        "",IDC_STATIC,8,112,243,38
+    CONTROL         "ATRAS",IDC_ATRAS4A4,"Button",BS_OWNERDRAW | BS_CENTER | 
+                    BS_VCENTER | WS_GROUP | WS_TABSTOP,38,125,50,14
+    CONTROL         "SIGUIENTE",IDC_SEGUIR4A4,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_TABSTOP,172,125,50,14
+END
+
+IDD_DLG4A5 DIALOG DISCARDABLE  0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION
+CAPTION "STEGMED - Paso 3 de 7"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif"
+BEGIN
+    CTEXT           "Complete los campos con la informaci�n de la Resonancia Magn�tica:",
+                    IDC_TEXTO4A5,2,8,255,13
+    GROUPBOX        "",-1,8,16,243,99
+    LTEXT           "Paciente",-1,17,27,28,8
+    EDITTEXT        IDC_NOMBRE,46,24,92,12
+    LTEXT           "Fecha",-1,187,26,20,8
+    EDITTEXT        IDC_FECHA,208,24,39,12
+    LTEXT           "Edad",-1,27,40,18,8
+    EDITTEXT        IDC_EDAD,46,38,16,12,ES_RIGHT | ES_NUMBER
+    LTEXT           "Regi�n",-1,113,41,23,8
+    EDITTEXT        IDC_REGION,137,39,110,12
+    LTEXT           "T�cnica",-1,19,56,26,8
+    EDITTEXT        IDC_TECNICA,46,54,202,19,ES_MULTILINE | ES_AUTOVSCROLL | 
+                    ES_WANTRETURN | WS_VSCROLL
+    LTEXT           "Informe",-1,22,77,23,8
+    EDITTEXT        IDC_INFORME,46,76,202,19,ES_MULTILINE | ES_AUTOVSCROLL | 
+                    ES_WANTRETURN | WS_VSCROLL
+    LTEXT           "Conclusi�n",-1,11,99,34,8
+    EDITTEXT        IDC_CONCLUSION,46,98,104,12,ES_AUTOHSCROLL
+    LTEXT           "Doctor",-1,154,101,21,8
+    EDITTEXT        IDC_DOCTOR,176,99,72,12,ES_AUTOHSCROLL
+    GROUPBOX        "",-1,8,112,243,38
+    CONTROL         "ATRAS",IDC_ATRAS4A5,"Button",BS_OWNERDRAW | BS_CENTER | 
+                    BS_VCENTER | WS_GROUP | WS_TABSTOP,38,125,50,14
+    CONTROL         "SIGUIENTE",IDC_SEGUIR4A5,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_TABSTOP,172,125,50,14
+    GROUPBOX        "",-1,2,0,255,157
+END
+
+IDD_DLG4A6 DIALOG DISCARDABLE  0, 0, 260, 160
+STYLE DS_MODALFRAME | DS_3DLOOK | WS_POPUP | WS_CAPTION
+CAPTION "STEGMED - Paso 3 de 7"
+MENU IDR_MENU1
+FONT 10, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "",-1,2,0,255,157
+    CTEXT           "Complete el campo con la informaci�n que corresponda:",
+                    IDC_TEXTO4A6,25,8,210,13
+    GROUPBOX        "",-1,8,16,243,99
+    LTEXT           "Informaci�n",-1,11,30,36,8
+    EDITTEXT        IDC_INFORMAC,48,28,195,79,ES_MULTILINE | ES_AUTOVSCROLL | 
+                    ES_WANTRETURN | WS_VSCROLL
+    GROUPBOX        "",-1,8,112,243,38
+    CONTROL         "ATRAS",IDC_ATRAS4A6,"Button",BS_OWNERDRAW | BS_CENTER | 
+                    BS_VCENTER | WS_GROUP | WS_TABSTOP,38,125,50,14
+    CONTROL         "SIGUIENTE",IDC_SEGUIR4A6,"Button",BS_OWNERDRAW | 
+                    BS_CENTER | BS_VCENTER | WS_TABSTOP,172,125,50,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_DLG4A1 DLGINIT
+BEGIN
+    IDC_NACDIA, 0x403, 3, 0
+0x3130, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3230, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3330, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3430, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3530, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3630, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3730, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3830, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3930, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3031, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3131, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3231, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3331, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3431, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3531, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3631, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3731, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3831, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3931, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3032, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3132, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3232, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3332, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3432, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3532, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3632, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3732, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3832, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3932, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3033, "\000" 
+    IDC_NACDIA, 0x403, 3, 0
+0x3133, "\000" 
+    IDC_NACMES, 0x403, 3, 0
+0x3130, "\000" 
+    IDC_NACMES, 0x403, 3, 0
+0x3230, "\000" 
+    IDC_NACMES, 0x403, 3, 0
+0x3330, "\000" 
+    IDC_NACMES, 0x403, 3, 0
+0x3430, "\000" 
+    IDC_NACMES, 0x403, 3, 0
+0x3530, "\000" 
+    IDC_NACMES, 0x403, 3, 0
+0x3630, "\000" 
+    IDC_NACMES, 0x403, 3, 0
+0x3730, "\000" 
+    IDC_NACMES, 0x403, 3, 0
+0x3830, "\000" 
+    IDC_NACMES, 0x403, 3, 0
+0x3930, "\000" 
+    IDC_NACMES, 0x403, 3, 0
+0x3031, "\000" 
+    IDC_NACMES, 0x403, 3, 0
+0x3131, "\000" 
+    IDC_NACMES, 0x403, 3, 0
+0x3231, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3030, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3130, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3230, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3330, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3430, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3530, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3630, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3730, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3830, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3930, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3031, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3131, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3231, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3331, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3431, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3531, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3631, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3731, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3831, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3931, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3032, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3132, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3232, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3332, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3432, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3532, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3632, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3732, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3832, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3932, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3033, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3133, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3233, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3333, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3433, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3533, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3633, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3733, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3833, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3933, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3034, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3134, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3234, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3334, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3434, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3534, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3634, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3734, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3834, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3934, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3035, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3135, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3235, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3335, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3435, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3535, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3635, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3735, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3835, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3935, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3036, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3136, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3236, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3336, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3436, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3536, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3636, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3736, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3836, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3936, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3037, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3137, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3237, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3337, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3437, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3537, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3637, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3737, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3837, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3937, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3038, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3138, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3238, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3338, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3438, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3538, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3638, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3738, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3838, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3938, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3039, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3139, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3239, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3339, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3439, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3539, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3639, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3739, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3839, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3931, 0x3939, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3032, 0x3030, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3032, 0x3130, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3032, 0x3230, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3032, 0x3330, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3032, 0x3430, "\000" 
+    IDC_NACANIO, 0x403, 5, 0
+0x3032, 0x3530, "\000" 
+    IDC_MUTUAL, 0x403, 5, 0
+0x4f49, 0x414d, "\000" 
+    IDC_MUTUAL, 0x403, 8, 0
+0x4f44, 0x5443, 0x4f48, 0x0053, 
+    IDC_MUTUAL, 0x403, 5, 0
+0x534f, 0x4544, "\000" 
+    IDC_MUTUAL, 0x403, 16, 0
+0x5250, 0x564f, 0x4e49, 0x4943, 0x2041, 0x4153, 0x554c, 0x0044, 
+    IDC_MUTUAL, 0x403, 6, 0
+0x534f, 0x4554, 0x004c, 
+    IDC_MUTUAL, 0x403, 5, 0
+0x4153, 0x494d, "\000" 
+    IDC_MUTUAL, 0x403, 5, 0
+0x4d41, 0x4153, "\000" 
+    IDC_MUTUAL, 0x403, 5, 0
+0x4150, 0x494d, "\000" 
+    IDC_MUTUAL, 0x403, 7, 0
+0x534f, 0x4c50, 0x4441, "\000" 
+    IDC_MUTUAL, 0x403, 7, 0
+0x4c43, 0x4d49, 0x4445, "\000" 
+    IDC_MUTUAL, 0x403, 6, 0
+0x4854, 0x4d45, 0x0041, 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+ACEPTARD                BITMAP  DISCARDABLE     "res\\aceptard.bmp"
+ACEPTARF                BITMAP  DISCARDABLE     "res\\aceptarf.bmp"
+ACEPTARU                BITMAP  DISCARDABLE     "res\\aceptaru.bmp"
+SIGUIENTEX              BITMAP  DISCARDABLE     "res\\siguientex.bmp"
+COMENZARU               BITMAP  DISCARDABLE     "res\\comenzaru.bmp"
+COMENZARF               BITMAP  DISCARDABLE     "res\\comenzarf.bmp"
+COMENZARD               BITMAP  DISCARDABLE     "res\\comenzard.bmp"
+CORREGIRU               BITMAP  DISCARDABLE     "res\\corregiru.bmp"
+CORREGIRF               BITMAP  DISCARDABLE     "res\\corregirf.bmp"
+CORREGIRD               BITMAP  DISCARDABLE     "res\\corregird.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "Acerca de StegMed"
+END
+
+#endif    // Spanish (Modern) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Spanish (Castilian) (unknown sub-lang: 0xB) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ESS)
+#ifdef _WIN32
+LANGUAGE LANG_SPANISH, 0xB
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_SPLASH, DIALOG
+    BEGIN
+        LEFTMARGIN, 14
+        RIGHTMARGIN, 204
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 93
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_SPLASH DIALOG DISCARDABLE  0, 0, 217, 103
+STYLE DS_MODALFRAME | WS_POPUP
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         215,IDC_STATIC,"Static",SS_BITMAP,19,15,179,73
+    GROUPBOX        "",IDC_STATIC,14,7,190,87
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_EXCLAM              BITMAP  DISCARDABLE     "res\\exclam.ico"
+IDB_INFORM              BITMAP  DISCARDABLE     "res\\informac.ico"
+IDB_QUESTION            BITMAP  DISCARDABLE     "res\\question.ico"
+IDB_STOP                BITMAP  DISCARDABLE     "res\\stop.ico"
+IDI_ICON1               BITMAP  DISCARDABLE     "res\\fondo.bmp"
+ATRASD                  BITMAP  DISCARDABLE     "res\\atrasd.bmp"
+ATRASF                  BITMAP  DISCARDABLE     "res\\atrasf.bmp"
+ATRASU                  BITMAP  DISCARDABLE     "res\\atrasu.bmp"
+CANCELARD               BITMAP  DISCARDABLE     "res\\cancelard.bmp"
+CANCELARF               BITMAP  DISCARDABLE     "res\\cancelarf.bmp"
+CANCELARU               BITMAP  DISCARDABLE     "res\\cancelaru.bmp"
+EXAMINARD               BITMAP  DISCARDABLE     "res\\examinard.bmp"
+EXAMINARF               BITMAP  DISCARDABLE     "res\\examinarf.bmp"
+EXAMINARU               BITMAP  DISCARDABLE     "res\\examinaru.bmp"
+MOSTRARD                BITMAP  DISCARDABLE     "res\\mostrard.bmp"
+MOSTRARF                BITMAP  DISCARDABLE     "res\\mostrarf.bmp"
+MOSTRARU                BITMAP  DISCARDABLE     "res\\mostraru.bmp"
+OCULTARD                BITMAP  DISCARDABLE     "res\\ocultard.bmp"
+OCULTARF                BITMAP  DISCARDABLE     "res\\ocultarf.bmp"
+OCULTARU                BITMAP  DISCARDABLE     "res\\ocultaru.bmp"
+RESCATARD               BITMAP  DISCARDABLE     "res\\rescatard.bmp"
+RESCATARF               BITMAP  DISCARDABLE     "res\\rescatarf.bmp"
+RESCATARU               BITMAP  DISCARDABLE     "res\\rescataru.bmp"
+SIGUIENTEU              BITMAP  DISCARDABLE     "res\\siguienteu.bmp"
+SIGUIENTEF              BITMAP  DISCARDABLE     "res\\siguientef.bmp"
+SIGUIENTED              BITMAP  DISCARDABLE     "res\\siguiented.bmp"
+TERMINARU               BITMAP  DISCARDABLE     "res\\terminaru.bmp"
+TERMINARF               BITMAP  DISCARDABLE     "res\\terminarf.bmp"
+TERMINARD               BITMAP  DISCARDABLE     "res\\terminard.bmp"
+IDB_STEGMED2            BITMAP  DISCARDABLE     "res\\StegMed2.bmp"
+IDB_STEGMED             BITMAP  DISCARDABLE     "res\\StegMed.bmp"
+IDB_ABOUT               BITMAP  DISCARDABLE     "res\\about.bmp"
+IDB_FONDO               BITMAP  DISCARDABLE     "res\\StegMed_fondo.bmp"
+IDB_ABOUT2              BITMAP  DISCARDABLE     "res\\about2.bmp"
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ESP)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 10, 3\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif\r\n"
+    "#include ""res\\StegMed.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.esp\\afxres.rc""          // Standard components\r\n"
+    "#endif\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\StegMed.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU DISCARDABLE 
+BEGIN
+    POPUP "Arc&hivo"
+    BEGIN
+        MENUITEM "Sa&lir",                      IDC_MSALIR
+    END
+    MENUITEM SEPARATOR
+    POPUP "A&yuda"
+    BEGIN
+        MENUITEM "Co&ntenido",                  IDC_MCONTENIDO
+        MENUITEM SEPARATOR
+        MENUITEM "&Acerca de...",               IDC_MACERCA
+    END
+END
+
+#endif    // Spanish (Castilian) (unknown sub-lang: 0xB) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ESP)
+#ifdef _WIN32
+LANGUAGE 10, 3
+#pragma code_page(1252)
+#endif
+#include "res\StegMed.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.esp\afxres.rc"          // Standard components
+#endif
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

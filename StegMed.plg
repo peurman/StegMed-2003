@@ -1,0 +1,75 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: StegMed - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\WIN\TEMP\RSP5360.TMP" with contents
+[
+/nologo /MDd /W3 /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /Fp"Debug/StegMed.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /c 
+"C:\Archivos de programa\Microsoft Visual Studio\MyProjects\StegMed\Dialogo4B.cpp"
+"C:\Archivos de programa\Microsoft Visual Studio\MyProjects\StegMed\Dialogo5B.cpp"
+"C:\Archivos de programa\Microsoft Visual Studio\MyProjects\StegMed\Dialogo7A.cpp"
+"C:\Archivos de programa\Microsoft Visual Studio\MyProjects\StegMed\Dialogo8A.cpp"
+"C:\Archivos de programa\Microsoft Visual Studio\MyProjects\StegMed\StegMedDlg.cpp"
+]
+Creating command line "cl.exe @C:\WIN\TEMP\RSP5360.TMP" 
+Creating temporary file "C:\WIN\TEMP\RSP5361.TMP" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/StegMed.pdb" /debug /machine:I386 /out:"Debug/StegMed.exe" /pdbtype:sept 
+".\Debug\Dialogo2A.obj"
+".\Debug\Dialogo2B.obj"
+".\Debug\Dialogo3A.obj"
+".\Debug\Dialogo3B.obj"
+".\Debug\Dialogo4A1.obj"
+".\Debug\Dialogo4A2.obj"
+".\Debug\Dialogo4A3.obj"
+".\Debug\Dialogo4A4.obj"
+".\Debug\Dialogo4A5.obj"
+".\Debug\Dialogo4A6.obj"
+".\Debug\Dialogo4B.obj"
+".\Debug\Dialogo5A.obj"
+".\Debug\Dialogo5B.obj"
+".\Debug\Dialogo6A.obj"
+".\Debug\Dialogo7A.obj"
+".\Debug\Dialogo8A.obj"
+".\Debug\Info1.obj"
+".\Debug\Info10.obj"
+".\Debug\Info11.obj"
+".\Debug\Info12.obj"
+".\Debug\Info131.obj"
+".\Debug\Info14.obj"
+".\Debug\Info2.obj"
+".\Debug\Info3.obj"
+".\Debug\Info4.obj"
+".\Debug\Info5.obj"
+".\Debug\Info6.obj"
+".\Debug\Info7.obj"
+".\Debug\Info8.obj"
+".\Debug\Info9.obj"
+".\Debug\SplashDialog.obj"
+".\Debug\StdAfx.obj"
+".\Debug\StegMed.obj"
+".\Debug\StegMedDlg.obj"
+".\Debug\StegMed.res"
+]
+Creating command line "link.exe @C:\WIN\TEMP\RSP5361.TMP"
+<h3>Output Window</h3>
+Compiling...
+Dialogo4B.cpp
+Dialogo5B.cpp
+Dialogo7A.cpp
+Dialogo8A.cpp
+StegMedDlg.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+StegMed.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
